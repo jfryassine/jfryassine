@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jfryassine
-- 👀 I’m interested in Web Development using ReactJS
-- 🌱 I’m currently learning React among other things
+- 👀 I’m interested in Programming in its various forms
+- 🌱 I’m currently learning ReactJS among other things
 - 💞️ I’m looking to collaborate on projects  
 - 📫 How to reach me jaafaryassine.27@gmail.com
 
